@@ -1,0 +1,244 @@
+	html,body
+	{
+		margin:0;
+		padding:0;
+		border:0;
+		outline:0;
+		font-size:100%;
+		vertical-align:baseline;
+		text-align:center;
+		//background-color:aqua;
+		
+   }
+   .kk
+	{
+		position:fixed;
+		//background:transparent;
+		width:100%;
+		height:100%;
+		border:2px;
+	}
+   .bgimgs
+	{
+		width:100%;
+		height:100%;
+	}
+	.fixwidth
+	{
+		width:1024px;
+		border:solid 1px silver;
+		border-radius:20px;
+		position:relative;
+		top:20px;
+	}
+	.hed
+	{
+		padding-top:10px;
+		padding-bottom:10px;
+		//border:solid 1px;
+		
+	}
+	.bodi
+	{
+		padding-top:10px;
+		padding-bottom:10px;
+		//border:solid 1px;
+	}
+	.titl
+	{
+		float:left;
+		padding:right:100px;
+	}
+	.logo
+	{
+		float:left;
+		padding-left:300px;
+		position:relative;
+		bottom:5px;
+		right:5px;
+	}
+	.nam
+	{
+		font-size:18px;
+		font-weight:bold;
+		background-color:white;
+		border:solid 2px silver;
+		padding-top:2px;
+		padding-bottom:2px;
+		padding-left:10px;
+		padding-right:8px;
+		border-radius:5px;
+	}
+	
+	.titlinfo
+	{
+		padding-left:100px;
+		color:white;
+		text-decoration:underline;
+	}
+	.menu
+	{
+		float:left;
+		padding-left:500px;
+		padding-top:100px;
+	}
+	.menu .links
+	{
+		width:500px;
+		text-align:left;
+		background-color:white;
+		padding-top:8px;
+		padding-bottom:10px;
+		padding-left:8px;
+		padding-right:8px;
+		border-radius:20px;
+	}
+	.menu .links li
+	{
+		display:inline;
+		padding-top:5px;
+		padding-bottom:5px;
+		padding-left:5px;
+		padding-right:5px;
+		text-align:center;
+		background-color:purple;
+		color:white;
+		border-radius:5px;
+		font-size:10px;
+	}
+	.menu .links li a
+	{
+		color:white;
+		text-decoration:none;
+	}
+	.sel
+	{
+		background-color:blue;
+		padding:1px 1px 1px 1px;
+		border:solid 1px aqua;
+		border-radius:2px;
+	}
+	.bodi
+	{
+		width:950px;
+		padding-top:300px;
+		padding-bottom:50px;
+	}
+	.full
+	{
+		width:100%;
+		background-color:snow;
+		padding-top:10px;
+		padding-bottom:10px;
+		border-radius:5px;
+	}
+	.ctr
+	{
+		width:900px;
+		//text-align:center;
+		height:1000px;
+		background-color:white;
+		padding-top:50px;
+		padding-left:20px;
+		padding-right:20px;
+		padding-bottom:50px;
+		vertical-align:baseline;
+		border-radius:5px;
+		//text-align:left;
+		
+	}
+	.container
+	{
+		width:90%;
+		text-align:center;
+		height:80%;
+		background-color:snow;
+		padding-top:50px;
+		padding-left:20px;
+		padding-right:20px;
+		padding-bottom:50px;
+		vertical-align:baseline;
+		//text-align:left;
+		
+	}
+	.left
+	{
+		width:45%;
+		float:left;
+		//padding-left:5px;
+		//padding-right:5px;
+		padding-top:10px;
+		padding-bottom:10px;
+		border-radius:5px;
+		background-color:white;
+		text-align:left;
+	}
+	.right
+	{
+		width:45%;
+		float:right;
+		//padding-left:5px;
+		//padding-right:5px;
+		padding-top:10px;
+		padding-bottom:10px;
+		border-radius:5px;
+		background-color:white;
+		text-align:left;
+	}
+	.para
+	{
+		background-color:white;
+		width:90%;
+		border:solid 1px silver;
+		margin: 5px 0px 40px;
+		padding: 0px 10px;
+		display: block;
+		clear: both;
+		background: url("images/codebg.jpg") repeat scroll 0% 0% transparent;
+		line-height: 20px;
+		font-size: 12px;
+		border: 1px solid rgb(207, 207, 207);
+		
+	}
+	.date
+	{
+		float:right;
+		position:relative;
+		right:10px;
+		top:10px;
+		text-align:center;
+		font-size:10px;
+		width:150px;
+		background-color:white;
+		padding:2px 2px 2px 2px;
+		border-radius:2px;
+	}
+	.back
+	{
+		position:fixed;
+		top:20px;
+		left:20px;
+		background-color:white;
+	}
+	.img
+	{
+		width:100%;
+		height:100%;
+	}
+	h1,h2,h3,h4,h5,h6
+	{
+		background-color:white;
+		text-decoration:underlined;
+	}
+	h1
+	{
+		color:violet;
+	}
+	.heds
+	{
+		color:violet;
+		font-size:20px;
+		font-weight:bold;
+		padding:5px 5px 5px 5px;
+		text-decoration:underline;
+	}
